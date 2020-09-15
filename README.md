@@ -1,14 +1,10 @@
 # Typing Tutor
 ## UBC CPSC 210
 
-This application is a typing game that aims to improve the user's touch typing skills.
-The game will begin, and the goal of the user is to type as many words during a predetermined span of time
-before the game ends.
- 
-This program will be targeted towards kids learning how to type but can be used by people of all skill levels.
-
-This project is of interest to me because touch typing websites and games are an enjoyable means of developing an
-essential skill.
+This application is a speed typing game. Running the main file will open the main menu. To begin a game choose "Play". 
+The game will begin, and the goal of the user is to type as many words during the 30 seconds after which the game ends.
+There are options to submit scores to a leader board, view the leader board, and add and remove words from library of
+"type-able" words.
 
 ##User Stories
 1. as a user, I want to be able to see a leader board of all the recorded scores.
