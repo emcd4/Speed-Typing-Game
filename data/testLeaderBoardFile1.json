@@ -1,0 +1,10 @@
+{
+  "leaderBoard":
+  [
+    {"nickName": "Harry", "score": 8},
+    {"nickName": "Parry", "score": 5},
+    {"nickName": "Larry", "score": 4},
+    {"nickName": "Barry", "score": 0},
+    {"nickName": "Carry", "score": 0}
+  ]
+}
