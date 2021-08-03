@@ -6,7 +6,7 @@ The game will begin, and the goal of the user is to type as many words during th
 There are options to submit scores to a leader board, view the leader board, and add and remove words from library of
 "type-able" words.
 
-##User Stories
+## User Stories
 1. as a user, I want to be able to see a leader board of all the recorded scores.
 2. as a user, I want to be able to submit my own score to the leader board with a nickname.
 3. as a user, I want to be able to play a game that ends after a predetermined amount of time.
